@@ -1,0 +1,170 @@
+{
+    "1": {
+        "name": "Development and practical use of new paradigms or forms of AI",
+        "sign": 1,
+        "odds": 0.75,
+        "weight": 0.6
+    },
+    "2": {
+        "name": "Consensus performance metrics developed for AI, either broadly applicable to AGI or for ten developed individual nAIs",
+        "sign": 1,
+        "odds": 0.15,
+        "weight": 0.1
+    },
+    "3": {
+        "name": "Digital domain of Cooking AI",
+        "sign": 1,
+        "odds": 0.95,
+        "weight": 0.05
+    },
+    "4": {
+        "name": "Physical manipulation of objects for Cooking AI",
+        "sign": 1,
+        "odds": 0.5833,
+        "weight": 0.4
+    },
+    "5": {
+        "name": "Digital domain of Haircutting AI",
+        "sign": 1,
+        "odds": 0.2,
+        "weight": 0.3
+    },
+    "6": {
+        "name": "Physical manipulation of objects for Haircutting AI",
+        "sign": 1,
+        "odds": 0.1,
+        "weight": 0.1
+    },
+    "7": {
+        "name": "Digital domain of Auto Repair AI",
+        "sign": 1,
+        "odds": 0.325,
+        "weight": 0.35
+    },
+    "8": {
+        "name": "Physical manipulation of objects for Auto Repair AI",
+        "sign": 1,
+        "odds": 0.15,
+        "weight": 0.2
+    },
+    "9": {
+        "name": "Design for Construction AI",
+        "sign": 1,
+        "odds": 0.85,
+        "weight": 0.2
+    },
+    "10": {
+        "name": "Planning for Construction AI",
+        "sign": 1,
+        "odds": 0.36,
+        "weight": 0.3
+    },
+    "11": {
+        "name": "Physical manipulation of objects for Construction AI",
+        "sign": 1,
+        "odds": 0.1,
+        "weight": 0.25
+    },
+    "12": {
+        "name": "Digital domain of Healthcare AI",
+        "sign": 1,
+        "odds": 0.67,
+        "weight": 0.3
+    },
+    "13": {
+        "name": "Digital domain of Contracts AI",
+        "sign": 1,
+        "odds": 0.95,
+        "weight": 0.1
+    },
+    "14": {
+        "name": "Forming and operating businesses",
+        "sign": 1,
+        "odds": 0.105,
+        "weight": 0.2
+    },
+    "15": {
+        "name": "Periods of large unfavorable macroeconomic conditions or continued secular stagnation over the next 20 years",
+        "sign": -1,
+        "odds": 0.36,
+        "weight": 0.5
+    },
+    "16": {
+        "name": "Diversification of fundamental AI R&D projects",
+        "sign": 1,
+        "odds": 0.8,
+        "weight": 0.25
+    },
+    "17": {
+        "name": "Investment and private sector growth in automating fading technologies and services, including internal combustion engine vehicle maintenance and repair",
+        "sign": 1,
+        "odds": 0.01,
+        "weight": 0.35
+    },
+    "18": {
+        "name": "Continuation of outsourcing to cheaper labor and economic growth trajectories of yet agricultural or low-skill manufacturing regions",
+        "sign": -1,
+        "odds": 0.88,
+        "weight": 0.7
+    },
+    "19": {
+        "name": "More nAIs are required for AGI",
+        "sign": 1,
+        "odds": 0.168,
+        "weight": 0.6
+    },
+    "20": {
+        "name": "High skill white-collar professions continue to expand pockets of tasks untouched by AI or created in response to AI",
+        "sign": -1,
+        "odds": 0.7,
+        "weight": 0.15
+    },
+    "21": {
+        "name": "Structural unemployment due to AI crease excess returns to increase investment and capital towards more AI",
+        "sign": 1,
+        "odds": 0.30,
+        "weight": 0.25
+    },
+    "22": {
+        "name": "Government interventions of expanded state, welfare, or employment mandates crowds out private sector or weakens state and broad economic conditions with excess debt",
+        "sign": -1,
+        "odds": 0.18,
+        "weight": 0.25
+    },
+    "23": {
+        "name": "Government taxation on AI-enabled profits or implementing restrictions on sales of goods or services powered by AI",
+        "sign": -1,
+        "odds": 0.6,
+        "weight": 0.2
+    },
+    "24": {
+        "name": "AI as a public good and reducing innovation incentives",
+        "sign": -1,
+        "odds": 0.05,
+        "weight": 0.05
+    },
+    "25": {
+        "name": "Legal action on AI ownership or AI monopolies",
+        "sign": -1,
+        "odds": 0.4,
+        "weight": 0.1
+    },
+    "26": {
+        "name": "Downward consumption expectations drag economy at large",
+        "sign": -1,
+        "odds": 0.2,
+        "weight": 0.25
+    },
+    "27": {
+        "name": "Sustained consumption of human-derived goods which offsets demand for AI products",
+        "sign": -1,
+        "odds": 0.4,
+        "weight": 0.1
+    },
+    "28": {
+        "name": "Opportunity cost in strengthening existing nAIs off current demand over developing new nAIs",
+        "sign": -1,
+        "odds": 0.65,
+        "weight": 0.3
+    }        
+}
